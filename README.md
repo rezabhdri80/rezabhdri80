@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rezabhdri80
+- 👀 I’m interested in java (se,fx) and python(pure,django)
+- 🌱 I’m currently learning both python django and java
+- 💞️ I’m looking to collaborate on projects requiering junior/mid-level programmer
+- 📫 How to reach me on instagram @_rezx_80 and @rzx80 n telegram
